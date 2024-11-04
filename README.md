@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is n/a and I'm a whitehat from the US.</h2>
+<h2 align="left">Hi 👋! My name is n/a and I'm a                         whitehat from the US.</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://i.postimg.cc/9FttNvQ4/readme.gif"  />
+  <img height="150" src="https://i.postimg.cc/9FttNvQ4/readme.gif"  />
 </div>
 
 ###
