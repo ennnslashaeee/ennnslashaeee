@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is n/a and I'm a whitehat from the US.</h2>
+<h2 align="left">Hi 👋! My name is n/a and I'm a                         whitehat from the US.</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -24,7 +24,28 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ennnslashaeee&radius=16&theme=react&area=false&order=5&bg_color=#141321&title_color=#141321&point=#141321&area_color=#141321" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ennnslashaeee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ennnslashaeee&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://i.postimg.cc/9FttNvQ4/readme.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.youtube.com/@enslashae" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -38,25 +59,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/cTS81LJ/nslasaa-1.jpg"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ennnslashaeee/ennnslashaeee/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/ennnslashaeee/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ennnslashaeee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ennnslashaeee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
