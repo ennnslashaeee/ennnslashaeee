@@ -39,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img height="150" src="https://i.postimg.cc/9FttNvQ4/readme.gif"  />
 </div>
 
