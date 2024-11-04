@@ -2,21 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ennnslashaeee&radius=16&theme=react&area=false&order=5&bg_color=#141321&title_color=#141321&point=#141321&area_color=#141321" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ennnslashaeee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ennnslashaeee&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -39,13 +24,28 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="650" src="https://i.postimg.cc/9MRD5qP8/clouds-3526558.jpg"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ennnslashaeee&radius=16&theme=react&area=false&order=5&bg_color=#141321&title_color=#141321&point=#141321&area_color=#141321" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ennnslashaeee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ennnslashaeee&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="left">
+  <img height="200" src="https://i.postimg.cc/9FttNvQ4/readme.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.youtube.com/@enslashae" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
