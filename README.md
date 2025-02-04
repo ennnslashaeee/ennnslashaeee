@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is n/a and I'm a                         whitehat from the US.</h2>
+<h2 align="left">Hi 👋! My name is n/a and I'm a                         code whore</h2>
 
 ###
 
