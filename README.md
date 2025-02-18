@@ -46,17 +46,6 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <a href="https://www.youtube.com/@enslashae" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/+mtloxYJZehNhYTcx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://n-a-2.gitbook.io/n-a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="47" height="35" alt="tryhackme logo"  />
-  </a>
 </div>
 
 ###
