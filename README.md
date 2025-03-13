@@ -1,57 +1,32 @@
-<h2 align="left">Hi 👋! My name is n/a and I'm a                         code whore</h2>
+<h1 align="center">Hi 👋, I'm N/A</h1>
+<h3 align="center">i do local app dev and backend.</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ennnslashaeee&label=Profile%20views&color=0e75b6&style=flat" alt="ennnslashaeee" /> </p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="30" alt="devicon logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
+- 🔭 Unbound Browser [Unbound](https://github.com/ennnslashaeee/unbound)
 
-###
+- 🌱 I’m currently learning **Browser Engines**
 
-<br clear="both">
+- 🤝 I’m looking for help with [Unbound](https://github.com/ennnslashaeee/unbound)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ennnslashaeee&radius=16&theme=react&area=false&order=5&bg_color=#141321&title_color=#141321&point=#141321&area_color=#141321" height="300" alt="activity-graph graph"  />
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/ennnslashaeee](https://github.com/ennnslashaeee)
 
-###
+- 💬 Ask me about **C**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ennnslashaeee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ennnslashaeee&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+- 📫 How to reach me **n-a@n-a.dev**
 
-###
+- 📄 Know about my experiences [https://n-a.dev/](https://n-a.dev/)
 
-<div align="center">
-  <img height="150" src="https://i.postimg.cc/9FttNvQ4/readme.gif"  />
-</div>
+- ⚡ Fun fact **I think js is bad despite using it almost daily**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<br clear="both">
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ennnslashaeee&show_icons=true&locale=en" alt="ennnslashaeee" /></p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ennnslashaeee/count.svg?"  />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ennnslashaeee&" alt="ennnslashaeee" /></p>
 
-###
