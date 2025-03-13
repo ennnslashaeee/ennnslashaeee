@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ennnslashaeee](https://github.com/ennnslashaeee)
 
-- 💬 Ask me about **C & arch**
+- 💬 Ask me about **C & Arch**
 
 - 📫 How to reach me **n-a@n-a.dev**
 
