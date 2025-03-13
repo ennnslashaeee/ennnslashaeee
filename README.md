@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ennnslashaeee](https://github.com/ennnslashaeee)
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C & arch**
 
 - 📫 How to reach me **n-a@n-a.dev**
 
 - 📄 Know about my experiences [https://n-a.dev/](https://n-a.dev/)
 
-- ⚡ Fun fact **I think js is bad despite using it almost daily**
+- ⚡ Fun fact **I use Arch btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
